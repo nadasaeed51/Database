@@ -1,7 +1,7 @@
-# Database
-All about database designing 
+# Smallshop
 
-This contains files of different phases in the database designing process, I am still learning and practicing so please do leave your comments or advice.
-thanks.
+This is a group university project of system design and analysis in the traditional aproach.
 
-Disclaimer: Some of the files here are not done completely by me but in group efforts of me and my colleuges. 
+Background info on the smallshop:
+it's a local dessert shop that offers desserts and coffee. In size it’s a very small business they have 2 
+branches and an in-store branch, but this project will focus on one branch only.
